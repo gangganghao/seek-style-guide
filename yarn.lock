@@ -9539,10 +9539,10 @@ pkginfo@0.x.x:
   version "0.4.1"
   resolved "https://registry.yarnpkg.com/pkginfo/-/pkginfo-0.4.1.tgz#b5418ef0439de5425fc4995042dced14fb2a84ff"
 
-playroom@0.21.2:
-  version "0.21.2"
-  resolved "https://registry.yarnpkg.com/playroom/-/playroom-0.21.2.tgz#e898630599c8fcbce8a3084a053d7d22662e74a1"
-  integrity sha512-i93r8AVQovR2jJMNC/3hPW6n235btU6eB/EgoJWdSWKggIu7Zw/ZxGsvpmhFIDcE/GZTyKRM04yG03Ki1fViFw==
+playroom@0.22.3:
+  version "0.22.3"
+  resolved "https://registry.yarnpkg.com/playroom/-/playroom-0.22.3.tgz#64b73d040b37d894f4839914f2f9fa66b4d6bc74"
+  integrity sha512-wKHEnQKckvOXzuuO2weDMKlitW/mXdngN/DhQHxlIFz58r7AGMYGfSDru49Yn72SBtktFcfcIXhuHKVPE01DeA==
   dependencies:
     "@babel/cli" "^7.8.3"
     "@babel/core" "^7.8.3"
